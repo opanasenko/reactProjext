@@ -1,0 +1,11 @@
+.burger-inner {
+    display: flex;
+    min-width: 100%;
+    flex-direction: column;
+
+    &_item {
+        min-width: 100%;
+
+        margin-bottom: 15px;
+    }
+}
